@@ -1,3 +1,8 @@
+---
+layout: blank 
+title: null
+---
+
 # Tampio Ilya 
 
 22yo, he/him, ml dev
